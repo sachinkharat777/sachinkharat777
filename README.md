@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
-  <a href="https://drive.google.com/file/d/1SrhG3CxdG9Q79LcgWJjToT5slW0WCdiR/view?usp=drivesdk" target="_blank">
+  <a href="[https://drive.google.com/file/d/1SrhG3CxdG9Q79LcgWJjToT5slW0WCdiR/view?usp=drivesdk](https://drive.google.com/file/d/1IVNhv-p8dOar003s0VoMlNMmqo6kjpBA/view?usp=drive_link)" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
 
@@ -133,7 +133,6 @@
 - Generative AI
 - MLOps
 - Docker
-- AWS
 - NLP
 
 ---
@@ -170,7 +169,7 @@ NLP pipeline for sentiment analysis using TF-IDF vectorization.
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://drive.google.com/file/d/1SrhG3CxdG9Q79LcgWJjToT5slW0WCdiR/view?usp=drivesdk">
+<a href="[https://drive.google.com/file/d/1SrhG3CxdG9Q79LcgWJjToT5slW0WCdiR/view?usp=drivesdk](https://drive.google.com/file/d/1IVNhv-p8dOar003s0VoMlNMmqo6kjpBA/view?usp=drive_link)">
 <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
