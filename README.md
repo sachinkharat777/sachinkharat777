@@ -5,7 +5,7 @@
 
 <h1>Hi 👋, I'm Sachin Kharat</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=850&lines=Data+Analyst;Data+Scientist;Machine+Learning+Engineer;Published+Researcher;Generative+AI+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=3B82F6&center=true&vCenter=true&width=850&lines=Data+Scientist;Data+Analyst;Machine+Learning+Engineer;Published+Researcher;Generative+AI+Explorer" alt="Typing SVG" />
 
 <br>
 
@@ -54,7 +54,7 @@
 
 📊 Interested in building intelligent applications, predictive models, data-driven solutions, and interactive dashboards using modern AI and analytics tools.
 
-📝 Published researcher — Flood Detection System (Computer Vision)
+📝 Published researcher — Flood Detection System.
 
 🚀 Actively seeking opportunities as a **Data Analyst**, **Data Scientist**, or **Machine Learning Engineer**.
 
@@ -163,7 +163,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:2563EB&height=90&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:2563EB&height=95&section=footer"/>
 <!--
 **sachinkharat777/sachinkharat777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
