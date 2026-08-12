@@ -31,9 +31,10 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[https://drive.google.com/file/d/1SrhG3CxdG9Q79LcgWJjToT5slW0WCdiR/view](https://drive.google.com/file/d/1IVNhv-p8dOar003s0VoMlNMmqo6kjpBA/view?usp=sharing)">
-<img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-</a>
+<a href="[https://drive.google.com/file/d/1SrhG3CxdG9Q79LcgWJjToT5slW0WCdiR/view?usp=drivesdk](https://drive.google.com/file/d/1IVNhv-p8dOar003s0VoMlNMmqo6kjpBA/view?usp=sharing)" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
+  </a>
+
 
 <a href="https://github.com/sachinkharat777">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
