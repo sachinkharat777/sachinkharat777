@@ -94,9 +94,15 @@
 
 <div align="center">
 
-<img width="85%" src="https://streak-stats.demolab.com?user=sachinkharat777&theme=tokyonight&hide_border=true"/>
+<img width="85%" src="https://streak-stats.demolab.com/?user=sachinkharat777&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
+
+<!-- <div align="center">
+
+<img width="85%" src="https://streak-stats.demolab.com?user=sachinkharat777&theme=tokyonight&hide_border=true"/>
+
+</div> -->
 
 ---
 
@@ -114,9 +120,32 @@
 
 <div align="center">
 
-<img width="95%" src="https://raw.githubusercontent.com/sachinkharat777/sachinkharat777/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/sachinkharat777/sachinkharat777/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/sachinkharat777/sachinkharat777/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    width="95%"
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/sachinkharat777/sachinkharat777/output/github-contribution-grid-snake.svg"
+  />
+
+</picture>
 
 </div>
+
+<!-- <div align="center">
+
+<img width="95%" src="https://raw.githubusercontent.com/sachinkharat777/sachinkharat777/output/github-contribution-grid-snake-dark.svg"/>
+
+</div> -->
 
 ---
 
