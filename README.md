@@ -40,6 +40,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://sachinkharat777.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FFC107?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+</a>
+
 </div>
 
 ---
@@ -178,6 +182,10 @@
 
 <a href="https://github.com/sachinkharat777">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://sachinkharat777.github.io/portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-FFC107?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 
 </div>
